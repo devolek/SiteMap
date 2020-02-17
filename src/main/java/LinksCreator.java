@@ -42,7 +42,9 @@ public class LinksCreator
         } catch (IOException | InterruptedException ex) {
             ex.printStackTrace();
         }
-        return urls;
+        finally {
+            return urls;
+        }
     }
     public static synchronized Document getDoc(String url) throws IOException, InterruptedException {
         Random random = new Random();
