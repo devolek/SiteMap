@@ -2,6 +2,87 @@ https://skillbox.ru/
 	https://skillbox.ru/frontend-developer/
 	https://skillbox.ru/reputation/
 	https://skillbox.ru/agima/
+	https://skillbox.ru/course/
+		https://skillbox.ru/course/profession-app-designer-new/
+		https://skillbox.ru/course/ableton-live/
+		https://skillbox.ru/course/frontend-developer/
+		https://skillbox.ru/course/app-design-pro/
+		https://skillbox.ru/course/profession-freelance-marketer-new/
+		https://skillbox.ru/course/finance/
+		https://skillbox.ru/course/profession-motiondesigner/
+		https://skillbox.ru/course/profession-data-analyst/
+		https://skillbox.ru/course/ecommerce/
+		https://skillbox.ru/course/profession-sound-designer/
+		https://skillbox.ru/course/redcollar/
+		https://skillbox.ru/course/sketching/
+		https://skillbox.ru/course/analytics/
+		https://skillbox.ru/course/profession-c-sharp/
+		https://skillbox.ru/course/profession-vr-ar-new/
+		https://skillbox.ru/course/profession-machine-learning/
+		https://skillbox.ru/course/excel-gsheets/
+		https://skillbox.ru/course/weblayout/
+		https://skillbox.ru/course/team-management/
+		https://skillbox.ru/course/digital-sales/
+		https://skillbox.ru/course/freelancer/
+		https://skillbox.ru/course/profession-brand-designer/
+		https://skillbox.ru/course/reputation/
+		https://skillbox.ru/course/php/
+		https://skillbox.ru/course/marketolog/
+		https://skillbox.ru/course/powerpoint-gslides/
+		https://skillbox.ru/course/vue-js/
+		https://skillbox.ru/course/profession-android-developer-new/
+		https://skillbox.ru/course/new-profession-test/
+		https://skillbox.ru/course/cinema4d/
+		https://skillbox.ru/course/profession-cybersecurity/
+		https://skillbox.ru/course/presentation-master/
+		https://skillbox.ru/course/profession-frontend/
+		https://skillbox.ru/course/branding/
+		https://skillbox.ru/course/profession-1c/
+		https://skillbox.ru/course/interiordesigner/
+		https://skillbox.ru/course/performance-mark/
+		https://skillbox.ru/course/ppc/
+		https://skillbox.ru/course/webdesign/
+		https://skillbox.ru/course/studio/
+		https://skillbox.ru/course/profession-app-designer/
+		https://skillbox.ru/course/profession-unreal-engine-4/
+		https://skillbox.ru/course/graphic-design/
+		https://skillbox.ru/course/beauty-industry/
+		https://skillbox.ru/course/python/
+		https://skillbox.ru/course/cpeople/
+		https://skillbox.ru/course/profession-test/
+		https://skillbox.ru/course/profession-new-project-manager/
+		https://skillbox.ru/course/profession-3d-animator-new/
+		https://skillbox.ru/course/figma/
+		https://skillbox.ru/course/prmanager/
+		https://skillbox.ru/course/frontend-pro/
+		https://skillbox.ru/course/profession-ios-developer-new/
+		https://skillbox.ru/course/ipad-sketching/
+		https://skillbox.ru/course/smm/
+		https://skillbox.ru/course/java/
+		https://skillbox.ru/course/3d/
+		https://skillbox.ru/course/commercial-design/
+		https://skillbox.ru/course/partnership/
+		https://skillbox.ru/course/profession-product-manager/
+		https://skillbox.ru/course/motion/
+		https://skillbox.ru/course/web-analytic-ingate/
+		https://skillbox.ru/course/copywriter/
+		https://skillbox.ru/course/adobexd/
+		https://skillbox.ru/course/profession-mobdev/
+		https://skillbox.ru/course/zbrush/
+		https://skillbox.ru/course/itproject/
+		https://skillbox.ru/course/django-framework/
+		https://skillbox.ru/course/msoffice/
+		https://skillbox.ru/course/uxdesign/
+		https://skillbox.ru/course/3d-artist-new/
+		https://skillbox.ru/course/profession-gamedesigner-new/
+		https://skillbox.ru/course/profession-c-plus-plus/
+		https://skillbox.ru/course/3d-max/
+		https://skillbox.ru/course/react-js/
+		https://skillbox.ru/course/profession-project-manager/
+		https://skillbox.ru/course/3d-max-visualisation/
+		https://skillbox.ru/course/head_of_education/
+		https://skillbox.ru/course/sketchapp/
+		https://skillbox.ru/course/profession-devops/
 	https://skillbox.ru/cinema4d/
 	https://skillbox.ru/sibirix/
 	https://skillbox.ru/aic/
@@ -10,6 +91,11 @@ https://skillbox.ru/
 	https://skillbox.ru/code/
 	https://skillbox.ru/instagram/
 	https://skillbox.ru/graphic-design/
+	https://skillbox.ru/authors/
+		https://skillbox.ru/authors/janna-travkina/
+		https://skillbox.ru/authors/evgenij-kucheryavyj/
+		https://skillbox.ru/authors/olesya-melnik/
+		https://skillbox.ru/authors/mariya-iraidina/
 	https://skillbox.ru/redcollar/
 	https://skillbox.ru/figma/
 	https://skillbox.ru/media/
@@ -98,6 +184,44 @@ https://skillbox.ru/
 			https://skillbox.ru/media/management/vashe_strategicheskoe_myshlenie/
 			https://skillbox.ru/media/management/shest_sigm/
 			https://skillbox.ru/media/management/kak_pravilno_delegirovat_zadachi_v_digital/
+		https://skillbox.ru/media/authors/
+			https://skillbox.ru/media/authors/gleb-letushov/
+			https://skillbox.ru/media/authors/vladimir-zavertaylov/
+			https://skillbox.ru/media/authors/eugenya-sycheva/
+			https://skillbox.ru/media/authors/denis-kortunov/
+			https://skillbox.ru/media/authors/daniil-gapeshin/
+			https://skillbox.ru/media/authors/igor-bugaevsky/
+			https://skillbox.ru/media/authors/oleg-uppit/
+			https://skillbox.ru/media/authors/roman-kumar-vias/
+			https://skillbox.ru/media/authors/anna-polyakova/
+			https://skillbox.ru/media/authors/maria-gregush/
+			https://skillbox.ru/media/authors/mariya-iraidina/
+			https://skillbox.ru/media/authors/vadim-payasu/
+			https://skillbox.ru/media/authors/michael-gorshkov/
+			https://skillbox.ru/media/authors/mikhail-rozov/
+			https://skillbox.ru/media/authors/janna-travkina/
+			https://skillbox.ru/media/authors/dmitriy-krutov/
+			https://skillbox.ru/media/authors/aleksej-karelin/
+			https://skillbox.ru/media/authors/zhenya-lepyekhin/
+			https://skillbox.ru/media/authors/roman-molchanov/
+			https://skillbox.ru/media/authors/ivan-ivanichev/
+			https://skillbox.ru/media/authors/vitaliy-vinogradov/
+			https://skillbox.ru/media/authors/inga-tsokhonis/
+			https://skillbox.ru/media/authors/pavel-gorshkov/
+			https://skillbox.ru/media/authors/antonina-nikulina/
+			https://skillbox.ru/media/authors/artyom-kazakov/
+			https://skillbox.ru/media/authors/alexandra-evdokimova/
+			https://skillbox.ru/media/authors/evgenij-kucheryavyj/
+			https://skillbox.ru/media/authors/skillbox-media/
+			https://skillbox.ru/media/authors/liza-borovikova/
+			https://skillbox.ru/media/authors/igor-subbotin/
+			https://skillbox.ru/media/authors/olesya-melnik/
+			https://skillbox.ru/media/authors/natalya-morozova/
+			https://skillbox.ru/media/authors/roman-chigirev/
+			https://skillbox.ru/media/authors/dmitriy-kuzmin/
+			https://skillbox.ru/media/authors/natalya-berezovskaya/
+			https://skillbox.ru/media/authors/anatoliy-alizar/
+			https://skillbox.ru/media/authors/stepan-stepanov/
 		https://skillbox.ru/media/code/
 			https://skillbox.ru/media/code/chto_takoe_paradigmy_programmirovaniya/
 			https://skillbox.ru/media/code/gayd_dlya_nachinayushchikh_kak_napisat_javascript/
@@ -174,6 +298,49 @@ https://skillbox.ru/
 			https://skillbox.ru/media/code/kak_sozdat_animatsiyu_v_javascript_za_30_minut/
 			https://skillbox.ru/media/code/kak_sozdat_prostuyu_2d_igru_na_unity/
 			https://skillbox.ru/media/code/android_razrabotka_za_i_protiv/
+		https://skillbox.ru/media/topic/
+			https://skillbox.ru/media/topic/articles/
+				https://skillbox.ru/media/topic/articles/growth/
+				https://skillbox.ru/media/topic/articles/marketing/
+				https://skillbox.ru/media/topic/articles/code/
+				https://skillbox.ru/media/topic/articles/management/
+				https://skillbox.ru/media/topic/articles/design/
+			https://skillbox.ru/media/topic/guides/
+				https://skillbox.ru/media/topic/guides/code/
+				https://skillbox.ru/media/topic/guides/design/
+				https://skillbox.ru/media/topic/guides/marketing/
+				https://skillbox.ru/media/topic/guides/management/
+				https://skillbox.ru/media/topic/guides/growth/
+			https://skillbox.ru/media/topic/news/
+				https://skillbox.ru/media/topic/news/marketing/
+				https://skillbox.ru/media/topic/news/design/
+				https://skillbox.ru/media/topic/news/code/
+				https://skillbox.ru/media/topic/news/growth/
+				https://skillbox.ru/media/topic/news/management/
+			https://skillbox.ru/media/topic/actions/
+				https://skillbox.ru/media/topic/actions/design/
+				https://skillbox.ru/media/topic/actions/code/
+				https://skillbox.ru/media/topic/actions/management/
+				https://skillbox.ru/media/topic/actions/marketing/
+				https://skillbox.ru/media/topic/actions/growth/
+			https://skillbox.ru/media/topic/collections/
+				https://skillbox.ru/media/topic/collections/design/
+				https://skillbox.ru/media/topic/collections/marketing/
+				https://skillbox.ru/media/topic/collections/code/
+				https://skillbox.ru/media/topic/collections/growth/
+				https://skillbox.ru/media/topic/collections/management/
+			https://skillbox.ru/media/topic/history/
+				https://skillbox.ru/media/topic/history/growth/
+				https://skillbox.ru/media/topic/history/marketing/
+				https://skillbox.ru/media/topic/history/management/
+				https://skillbox.ru/media/topic/history/code/
+				https://skillbox.ru/media/topic/history/design/
+			https://skillbox.ru/media/topic/interview/
+				https://skillbox.ru/media/topic/interview/code/
+				https://skillbox.ru/media/topic/interview/design/
+				https://skillbox.ru/media/topic/interview/management/
+				https://skillbox.ru/media/topic/interview/growth/
+				https://skillbox.ru/media/topic/interview/marketing/
 		https://skillbox.ru/media/topic//
 		https://skillbox.ru/media/design/
 			https://skillbox.ru/media/design/7_knig_po_sketchingu_kotorye_nauchat_vas_risovat/

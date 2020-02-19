@@ -14,7 +14,7 @@ public class Main
     public static void main(String[] args) throws IOException {
 
         new ForkJoinPool().invoke(new SiteMapCreator(URL));
-
+        addSpaces();
         ArrayList<String> urls = new ArrayList<>(uniqueURL);
         Node root = getRoot(urls);
         Vector<Node> nodes = new Vector<>();
@@ -59,5 +59,17 @@ public class Main
 
         }
         return root;
+    }
+    public static void addSpaces(){
+        ArrayList<String> addedUrls = new ArrayList<>();
+        for (String url : uniqueURL){
+            String[] url2 = url.split("/");
+            StringBuilder result = new StringBuilder(url2[0] + "/" + url2[1]);
+            for (int i = 2; i < url2.length; i++){
+                result.append("/").append(url2[i]);
+                addedUrls.add(result.toString() + "/");
+            }
+        }
+        uniqueURL.addAll(addedUrls);
     }
 }
