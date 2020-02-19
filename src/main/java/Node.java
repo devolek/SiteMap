@@ -2,17 +2,15 @@ import java.util.Vector;
 
 public class Node
 {
-    private String link;
     private Vector<Node> children;
     private int generation;
     private String url;
     private String prefix;
 
-    public Node(String link, int generation, String url, String prefix) {
-        this.link = link;
+    public Node(String url, int generation, String prefix) {
+        this.url = url;
         this.children = new Vector<>();
         this.generation = generation;
-        this.url = url;
         this.prefix = prefix;
     }
 
@@ -24,17 +22,10 @@ public class Node
         children.add(child);
     }
 
-    public String getLink() {
-        return link;
-    }
-
     public int getGeneration() {
         return generation;
     }
 
-    public void setGeneration(int generation) {
-        this.generation = generation;
-    }
 
     public String getUrl() {
         return url;

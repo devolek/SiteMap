@@ -16,7 +16,9 @@ public class Main
         new ForkJoinPool().invoke(new SiteMapCreator(URL));
 
         ArrayList<String> urls = new ArrayList<>(uniqueURL);
-        Vector<Node> nodes = getNodes(urls);
+        Node root = getRoot(urls);
+        Vector<Node> nodes = new Vector<>();
+        nodes.add(root);
         printMap(nodes);
 
         PrintWriter writer = new PrintWriter("file.txt");
@@ -29,35 +31,33 @@ public class Main
 
     public static void printMap(Vector<Node> nodes){
         for (Node node : nodes) {
-            list.add(node.getPrefix() + node.getLink());
+            list.add(node.getPrefix() + node.getUrl());
             if (!node.getChildren().isEmpty()) {
                 printMap(node.getChildren());
             }
         }
     }
-    public static Vector<Node> getNodes(ArrayList<String> urls){
-        Node root = new Node(URL, 0, URL,"");
+    public static Node getRoot(ArrayList<String> urls){
+        Node root = new Node(URL, 0,"");
         ArrayList<Node> parents = new ArrayList<>();
         ArrayList<Node> children;
         parents.add(root);
         while (!parents.isEmpty()){
             children = new ArrayList<>();
             for (Node node : parents) {
-                for (String u : urls){
-                    if (u.split("/").length < node.getGeneration() + 5 && !u.equals(node.getUrl())
-                            && uniqueURL2.add(u)) {
-                        Node child = new Node(u, node.getGeneration() + 1, u, node.getPrefix() + "\t");
+                for (String url : urls){
+                    if (url.split("/").length < node.getGeneration() + 5 && !url.equals(node.getUrl())
+                            && url.contains(node.getUrl()) && uniqueURL2.add(url))
+                    {
+                        Node child = new Node(url, node.getGeneration() + 1,node.getPrefix() + "\t");
                         node.addChildren(child);
                         children.add(child);
-                        System.out.println(u);
                     }
                 }
             }
             parents = new ArrayList<>(children);
 
         }
-        Vector<Node> nodes = new Vector<>();
-        nodes.add(root);
-        return nodes;
+        return root;
     }
 }
