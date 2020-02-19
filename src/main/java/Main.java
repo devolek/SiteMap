@@ -9,13 +9,13 @@ public class Main
     public static final String URL = "https://skillbox.ru/";
     public static ArrayList<String> list = new ArrayList<>();
     public static volatile Set<String> uniqueURL = new HashSet<>();
+    private static Set<String> uniqueURL2 = new HashSet<>();
 
     public static void main(String[] args) throws IOException {
 
-        LinksCreator root = new LinksCreator(URL);
-        new ForkJoinPool().invoke(new SiteMapCreator(root));
+        new ForkJoinPool().invoke(new SiteMapCreator(URL));
 
-        ArrayList<String> urls = new ArrayList<>(LinksCreator.uniqueURL);
+        ArrayList<String> urls = new ArrayList<>(uniqueURL);
         Vector<Node> nodes = getNodes(urls);
         printMap(nodes);
 
@@ -45,8 +45,7 @@ public class Main
             for (Node node : parents) {
                 for (String u : urls){
                     if (u.split("/").length < node.getGeneration() + 5 && !u.equals(node.getUrl())
-                            && u.contains(node.getUrl().contains("html") ? node.getUrl().substring(0, node.getUrl().lastIndexOf('.'))
-                            : node.getUrl()) && uniqueURL.add(u)) {
+                            && uniqueURL2.add(u)) {
                         Node child = new Node(u, node.getGeneration() + 1, u, node.getPrefix() + "\t");
                         node.addChildren(child);
                         children.add(child);
